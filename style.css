@@ -1,0 +1,33 @@
+body {
+    background-color: #252525;
+    color: lightgray;
+}
+
+#task {
+    width: 500px;
+    height: 100%;
+}
+
+#search {
+    margin-left: 300px;
+}
+
+h1 {
+    border-top: solid #666699;
+}
+
+#searchButton {
+    border: none;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    margin-left: 10px;
+
+    background-color: #666699;
+    border: 0;
+    color: #fff;
+    font-weight: bold;
+}
